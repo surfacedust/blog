@@ -8,8 +8,9 @@ tags: 随笔
 > 安装 git 客户端 -> [Git官网](https://git-scm.com/downloads)
 
 #### 2. Node.js
-> 安装 Node.js -> [Node.js 官网](https://nodejs.org/en/) 或 [中文网](http://nodejs.cn/)
+> 安装 Node.js -> [Node.js 官网](https://nodejs.org/en/) 或 [中文网](http://nodejs.cn/)  
 
+<!-- more -->
 #### 3. Hexo
 > 执行完前两步之后,安装 Hexo, 在命令行中输入 `npm install -g hexo-cli`
 ` // 建立一个博客文件夹, 并初始化博客, <folder> 为文件夹的名称 `  
